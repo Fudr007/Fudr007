@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Fudr007
 - 👀 I’m interested in coding & handaball
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, JavaScript, SQL
 - 📫 How to reach me ...> petr.valenta00@email.cz
